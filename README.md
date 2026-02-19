@@ -60,11 +60,3 @@ A simple text-based Escape Room game built in Java using Swing GUI. The player m
 ## 👨‍💻 Author
 Developed by Monty
 
----
-
-## 📸 Screenshot
-(Add your game screenshot here)
-
----
-
-Enjoy solving the puzzles and escaping the room! 🗝️🚪
