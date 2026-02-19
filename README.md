@@ -34,3 +34,37 @@ A simple text-based Escape Room game built in Java using Swing GUI. The player m
 ## ▶️ How to Run
 1. Open the project in VS Code or any Java IDE.
 2. Compile and run the main file:
+3. Play the game by answering the riddles.
+
+---
+
+## 📚 Concepts Practiced
+- Classes and objects
+- Event handling
+- Conditional logic
+- String comparison
+- GUI development
+
+---
+
+## 🔮 Future Improvements
+- Add more puzzles
+- Timer-based challenges
+- Score system
+- Sound effects
+- Level selection
+- Better UI design
+
+---
+
+## 👨‍💻 Author
+Developed by Monty
+
+---
+
+## 📸 Screenshot
+(Add your game screenshot here)
+
+---
+
+Enjoy solving the puzzles and escaping the room! 🗝️🚪
